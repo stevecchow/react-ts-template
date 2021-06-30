@@ -1,6 +1,7 @@
 {
-  "name": "react-ts-template",
-  "version": "0.1.0",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "description": "{{projectDescription}}",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
